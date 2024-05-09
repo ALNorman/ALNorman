@@ -7,7 +7,7 @@
 - <b>Adventures of Black Jack (Learning Game)</b>
   - [Creation Blogg](https://blackjacklearning.blogspot.com/2024/02/) 
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)]()
+  - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/PowerShell1)
 
 
 <h2>📺  YouTube Videos</h2>
