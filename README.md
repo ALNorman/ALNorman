@@ -8,6 +8,8 @@
   - [Creation Blogg](https://blackjacklearning.blogspot.com/2024/02/) 
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/PowerShell1)
+  - [multiaccountunlock (Unlock multiple accounts)](https://github.com/ALNorman/PowerShell2)
+  - [listinstalled (List software remotely installed)](https://github.com/ALNorman/PowerShell3)
 - <b>Android Apps</b>
   - [Cyclopes](https://www.youtube.com/watch?v=6LUulpEZvL4)
   - [Tactical Cam](https://www.youtube.com/watch?v=pi1Rk78jrf0)
