@@ -10,7 +10,7 @@
 - <b>EZ Citation Wizard</b>
   - [Creation Blogg](https://citationwizard.blogspot.com/)
 - <b>Adventures of Black Jack (Learning Game)</b>
-  - [Creation Blogg](https://blackjacklearning.blogspot.com/2024/02/) 
+  - [Black Jack Log](https://github.com/ALNorman/Blackjack) 
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/PowerShell1)
   - [multiaccountunlock (Unlock multiple accounts)](https://github.com/ALNorman/PowerShell2)
