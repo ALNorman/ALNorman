@@ -1,5 +1,10 @@
 <h1>Hi, I'm Anthony! <br/><a href="https://github.com/ALNorman1">Programmer</a>, <a href="">Technical Support Professional</a>
 
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Active Directory</b>
+  - [Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>EZ Citation Wizard</b>
