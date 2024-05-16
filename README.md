@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+
 - <b>Active Directory</b>
   - [Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
+- <b>👨‍💻Python:</b>
+  - [Script Bits 4 Everyday](https://github.com/ALNorman/Python-Script-Bits)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/PowerShell1)
+  - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/Python-Script-Bits)
   - [multiaccountunlock (Unlock multiple accounts)](https://github.com/ALNorman/PowerShell2)
   - [listinstalled (List software remotely installed)](https://github.com/ALNorman/PowerShell3)
 - <b>Android Apps</b>
