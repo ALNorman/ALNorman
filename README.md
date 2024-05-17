@@ -5,16 +5,16 @@
 
 - <b>Active Directory</b>
   - [Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
-- <b>👨‍💻Python:</b>
+- <b>Python Scripts</b>
   - [Script Bits 4 Everyday](https://github.com/ALNorman/Python-Script-Bits)
-- <b>PowerShell</b>
+- <b>IT PowerShell Scripts</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/Python-Script-Bits)
   - [multiaccountunlock (Unlock multiple accounts)](https://github.com/ALNorman/PowerShell2)
   - [listinstalled (List software remotely installed)](https://github.com/ALNorman/PowerShell3)
 - <b>Android Apps</b>
   - [Cyclopes](https://www.youtube.com/watch?v=6LUulpEZvL4)
   - [Tactical Cam](https://www.youtube.com/watch?v=pi1Rk78jrf0)
-- <b>Reports/Analysis</b>
+- <b>Cybersecurity Analyst Reports</b>
   - [NIST-Cyber Attack Analysis](https://github.com/ALNorman/NIST-CyberAttackAnalysis)
   - [Phishings Report](https://github.com/ALNorman/Cybersecurity1)
   - [Security Audit Report](https://github.com/ALNorman/SecurityAudit)
