@@ -14,7 +14,10 @@
 - <b>Android Apps</b>
   - [Cyclopes](https://www.youtube.com/watch?v=6LUulpEZvL4)
   - [Tactical Cam](https://www.youtube.com/watch?v=pi1Rk78jrf0)
-
+- <b>Reports/Analysis</b>
+  - [Phishings Report](https://github.com/ALNorman/Cybersecurity1)
+  - [Security Audit Report](https://github.com/ALNorman/SecurityAudit)
+  - [TCPDUMP Analysis](https://github.com/ALNorman/Analysis-DNS-ICMP-Traffic)
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>EZ Citation Wizard</b>
