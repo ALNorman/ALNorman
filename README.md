@@ -18,6 +18,7 @@
   - [Phishings Report](https://github.com/ALNorman/Cybersecurity1)
   - [Security Audit Report](https://github.com/ALNorman/SecurityAudit)
   - [TCPDUMP Analysis](https://github.com/ALNorman/Analysis-DNS-ICMP-Traffic)
+  - [Network Attack/WhiteShark Analysis](https://github.com/ALNorman/Analysis-DNS-ICMP-Traffic)
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>EZ Citation Wizard</b>
