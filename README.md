@@ -13,6 +13,8 @@
   - [listinstalled (List software remotely installed)](https://github.com/ALNorman/PowerShell3)
 - <b>Linux Projects</b>
   - [Edit Files/Directoy](https://github.com/ALNorman/Linux-Project-1)
+- <b>SQL Projects</b>
+  - [SQL Project 1](https://github.com/ALNorman/SQL1)
 - <b>Android Apps</b>
   - [Cyclopes](https://www.youtube.com/watch?v=6LUulpEZvL4)
   - [Tactical Cam](https://www.youtube.com/watch?v=pi1Rk78jrf0)
