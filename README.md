@@ -7,6 +7,7 @@
   - [Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
 - <b>Python Scripts</b>
   - [Script Bits 4 Everyday](https://github.com/ALNorman/Python-Script-Bits)
+  - [Python Automation Project](https://github.com/ALNorman/Python-Automation)
 - <b>IT PowerShell Scripts</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/ALNorman/Python-Script-Bits)
   - [multiaccountunlock (Unlock multiple accounts)](https://github.com/ALNorman/PowerShell2)
