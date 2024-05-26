@@ -4,7 +4,9 @@
 
 
 - <b>Active Directory</b>
-  - [Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
+  - [AD Home Lab](https://github.com/ALNorman/ActiveDirectoryLab)
+- <b>SOC & Automation</b>
+  - [SOC Home Lab](https://github.com/ALNorman/SOC-Home-Lab)
 - <b>Python Scripts</b>
   - [Script Bits 4 Everyday](https://github.com/ALNorman/Python-Script-Bits)
   - [Python Automation Project](https://github.com/ALNorman/Python-Automation)
